@@ -57,7 +57,7 @@ Download links:
 Enjoy!   
 
 
-![alt text](1.png "kingmaster 4.8.2")
+![kingmaster 4.8.2](./1.png)
 
 
 
